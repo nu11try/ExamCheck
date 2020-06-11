@@ -3,7 +3,6 @@
 
 ScreenShot::ScreenShot()
 {
-    // Определение путей к сохранению скринов
     mainPath = QCoreApplication::applicationDirPath().append("/image/");
 }
 
